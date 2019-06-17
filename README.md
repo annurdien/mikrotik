@@ -1,2 +1,2 @@
-# mikrotik
-Script Mikrotik 
+# Script Mikrotik 
+Beberapa script mikrotik untuk kebutuhan monitoring
